@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.9.0",
-    "hugo-cli": "^0.10.0",
+    "hugo-cli": "^0.11.0",
     "hugo-lunr": "0.0.4",
     "mermaid": "^9.1.2",
     "bl": ">=1.2.3"
